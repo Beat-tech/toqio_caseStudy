@@ -26,7 +26,7 @@ Make sure you have the following software installed on your machine:
 
 1. Clone the repository:
 ```
- git clone https://github.com/Beat-tech/decadisTest
+git clone https://github.com/Beat-tech/toqio_caseStudy.git
 ```
 
 2. Navigate to the project directory
@@ -41,7 +41,9 @@ To run the tests headed mode, use the following command:
 ```
   npx cypress open
 ```  
-Select E2E Testing and then select the spec you want to run.
+A window will open, then select E2E Testing and the spec you want to run.
+
+
 
 
 To run the tests headless mode, use the following command:
