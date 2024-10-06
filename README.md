@@ -69,6 +69,10 @@ npx cypress run --spec "cypress/e2e/my-test-file.cy.js"
 - Invalid email company.
   
 - Submit the form with missing optional fields.
+  
+- Submit the form with missing mandatory fields.
+
+- Fill the form with special characters
    
 
 
